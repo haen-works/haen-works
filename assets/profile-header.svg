@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Han Sarıkaya — haen-works</title>
+  <desc id="desc">Backend, veritabanı ve mobil uygulama geliştirme.</desc>
+  <rect width="1200" height="300" rx="24" fill="#101820"/>
+  <circle cx="1120" cy="50" r="220" fill="#16332f"/>
+  <circle cx="1165" cy="40" r="150" fill="none" stroke="#2dd4bf" stroke-opacity=".22" stroke-width="2"/>
+  <path d="M65 65h48" stroke="#5eead4" stroke-width="5" stroke-linecap="round"/>
+  <text x="65" y="108" fill="#5eead4" font-family="Segoe UI,Arial,sans-serif" font-size="18" letter-spacing="5">HAEN-WORKS</text>
+  <text x="61" y="184" fill="#f3f6fa" font-family="Segoe UI,Arial,sans-serif" font-size="62" font-weight="700">Han Sarıkaya</text>
+  <text x="65" y="236" fill="#b7c5d0" font-family="Segoe UI,Arial,sans-serif" font-size="23">Backend · Veritabanı · Mobil Uygulamalar</text>
+  <text x="997" y="192" fill="#5eead4" font-family="Consolas,monospace" font-size="86" opacity=".8">&lt;/&gt;</text>
+</svg>
